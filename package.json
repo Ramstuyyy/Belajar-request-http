@@ -1,0 +1,16 @@
+{
+  "name": "sesi-nodejs",
+  "version": "1.0.0",
+  "description": "sesi nodejs",
+  "main": "index.js",
+  "scripts": {
+    "Nyala": "nodemon index.js"
+  },
+  "author": "Ramstuy",
+  "license": "ISC",
+  "dependencies": {
+    "@arismun/format-rupiah": "^3.0.0",
+    "nodemon": "^3.0.2",
+    "rupiah-format": "^1.0.0"
+  }
+}
